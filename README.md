@@ -1,43 +1,16 @@
-<h1 align="center">Hi 👋, I'm Guilherme dos Santos</h1>
-<h3 align="center">Software Engineer | FullStack | Java | Spring Boot | Angular</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guilhermedosantoss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=guilhermedosantoss" alt="Achievements" />
-  </a>
-</p>
+ ## 🧑‍💻 Guilherme dos Santos Mendonça Enéas
+### Software Engineer | FullStack | Java | Spring Boot | Angular
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - Experienced **Java Backend Developer** with hands-on knowledge in **Spring Boot, Microservices, APIs, and DevOps practices**.  
-- Passionate about building **scalable and maintainable software architectures** using modern practices like **DDD, Docker, and Event-Driven Architecture**.  
+- Passionate about building **scalable and maintainable software architectures** using modern practices like **DDD, Terraform, Docker, and Event-Driven Architecture**.  
 - Strong believer in **TDD, clean code, and CI/CD pipelines** to deliver high-quality solutions.  
 
 ---
 
-### 🌱 Currently Learning
-- **Cloud & DevOps:** Docker, Kubernetes, AWS  
-- **Software Architecture:** Clean Architecture, Microservices, DDD  
-
----
-
-### 🤝 Let’s Collaborate
-- Open to **Backend and Fullstack projects**  
-- Happy to **mentor juniors** and **share knowledge** on Java & Spring Boot  
-
----
-
-### 💬 Ask Me About
-- Java, Spring Boot, Microservices  
-- Docker, Kubernetes, CI/CD  
-- Event-Driven Architecture & DDD  
-
----
-
-### 📫 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/guilhermedevjava/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -49,7 +22,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Stacks
 <p align="left">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
@@ -69,9 +42,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermedosantoss&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermedosantoss&show_icons=true&locale=en" alt="GitHub Stats" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/br.svg" alt="Português" width="30" height="20" /> **Native Portuguese**
+  
+  <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/us.svg" alt="Inglês" width="30" height="20" /> **B2 English**
 </p>
